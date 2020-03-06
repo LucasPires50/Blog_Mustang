@@ -129,6 +129,10 @@ body{
     clear: both;
 }
 
+.LightBox{
+    text-decoration: none;
+}
+
 /*Configuração responsive para celular*/
 @media screen and (max-width: 800px){
     .leftcol, .rightCol{
